@@ -124,27 +124,29 @@ GET /localhost:8761/
 
 ![image](https://user-images.githubusercontent.com/55364638/206925899-ebcd1e02-dfbe-43f0-b0ca-e52d264c84a9.png)
 
-## Products
+## Customers
 ## 1 Show all customer
 
-![image](https://user-images.githubusercontent.com/55364638/206925644-39d57c48-dd68-4d57-a563-a76e20dabe65.png)
+![image](https://user-images.githubusercontent.com/101568947/208622005-63e69503-4e87-421b-9ff8-7acdc90bdbc7.png)
+
 
 
 
 ## 2 Edit Customer
 
-![image](https://user-images.githubusercontent.com/101510983/206924228-151e1ed2-e1d6-406d-8849-34da1dc34937.png)
+![image](https://user-images.githubusercontent.com/101568947/208622165-125e76c8-d3df-446d-b092-7be71571018d.png)
+
 
 
 ## 3 Delete Customer 
 
-![image](https://user-images.githubusercontent.com/55364638/206926221-6b3c8033-4f51-420a-89eb-9634b8322d2b.png)
+![image](https://user-images.githubusercontent.com/101568947/208622330-1a266e93-0b43-44e7-b201-deb64557177a.png)
 
 
 
 ## 4 Search Customer 
 
-![image](https://user-images.githubusercontent.com/55364638/206926003-7e101bb2-764a-4083-8270-739fa6e95709.png)
+![image](https://user-images.githubusercontent.com/101568947/208622463-5f6fce9c-87bb-42e6-83f5-605ded385b1f.png)
 
 
 
