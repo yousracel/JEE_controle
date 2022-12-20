@@ -152,10 +152,11 @@ GET /localhost:8761/
 
 ## 5 New Customer 
 
-![image](https://user-images.githubusercontent.com/55364638/206925953-153464e1-a35e-470b-ad44-9cf09874aa25.png)
+![image](https://user-images.githubusercontent.com/101568947/208622862-f27bca47-2f38-4b45-a706-090e6bfcd5a0.png)
 
 
-![image](https://user-images.githubusercontent.com/55364638/206925982-3003c687-4601-4ee2-b88c-f0b2b58dcf3e.png)
+![image](https://user-images.githubusercontent.com/101568947/208623116-ad28b0c1-d5be-42e6-add7-d17b1ee0e0f6.png)
+
 
 
 ## Bills
