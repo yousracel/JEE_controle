@@ -57,7 +57,8 @@ GET /localhost:8888/PRODUCT-SERVICE/products/{id}
 GET /localhost:8888/CUSTOMER-SERVICE/customers
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206921889-6f2333f5-b2ac-4d27-839b-c0989720c140.png)
+![image](https://user-images.githubusercontent.com/101568947/208621099-0be7dd9c-cc4d-4cc7-a0b8-8623c411291f.png)
+
 
 
 ## 5 Customer Service - get Customer by ID
