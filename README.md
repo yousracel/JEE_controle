@@ -162,7 +162,8 @@ GET /localhost:8761/
 ## Bills
 ## Show Bills  
 
-![image](https://user-images.githubusercontent.com/55364638/206925572-719bdaa5-0195-46e8-b4e2-7a190a300df9.png)
+![image](https://user-images.githubusercontent.com/101568947/208623424-110cb6ae-f2ce-4942-9509-a8140580087e.png)
+
 
 
 # III Secured Angular Client with keycloak 
